@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7feef68-b143-4c55-8ea0-62e39c524bab" name="Changes" comment="v1" />
+    <list default="true" id="b7feef68-b143-4c55-8ea0-62e39c524bab" name="Changes" comment="Initialize project with core functionality and configuration files">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Anthony10700"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Anthony10700/pyvoicetochat.git",
+    "accountId": "b34c0092-4c6e-481a-80dd-6820bfbe430e"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -140,6 +154,7 @@
       <workItem from="1757752065528" duration="2113000" />
       <workItem from="1757838189375" duration="498000" />
       <workItem from="1757838716402" duration="1211000" />
+      <workItem from="1757840717785" duration="336000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <option name="closed" value="true" />
@@ -253,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757838572914</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Initialize project with core functionality and configuration files">
+      <option name="closed" value="true" />
+      <created>1757840750613</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1757840750613</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,7 +301,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1" />
+    <MESSAGE value="Initialize project with core functionality and configuration files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialize project with core functionality and configuration files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pyvoicetochat$main.coverage" NAME="main Coverage Results" MODIFIED="1757754127755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
