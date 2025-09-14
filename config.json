@@ -1,0 +1,12 @@
+{
+    "x": 314,
+    "y": 1353,
+    "target": {
+        "x": 1714,
+        "y": 1246
+    },
+    "settings": {
+        "energy_threshold": 500,
+        "pause_threshold": 0.8
+    }
+}

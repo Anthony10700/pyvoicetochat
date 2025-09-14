@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=PyVoiceToChat
+Comment=Dictez du texte dans n'importe quelle application avec votre voix
+Exec=/home/anthony/PycharmProjects/pyvoicetochat/run.sh
+Icon=/home/anthony/PycharmProjects/pyvoicetochat/icon.png
+Terminal=false
+Type=Application
+Categories=Utility;AudioVideo;
